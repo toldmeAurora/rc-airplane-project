@@ -1,0 +1,28 @@
+ALICI SEÇİMİ 
+burda önemli olan elinizde var olan kumandaya uygun alıcı seçmektir 4 kanal 6 kanal 10 kanal gibi seçenekleriniz olabili bu projede 4 servo 1 esc kullanılacağı için 6 kanallı herhangi bir kumanda yeterli olu--(r 
+(flysky i6b) ilk parçadır 
+SERVO SEÇİMİ
+uçağın boyutuna göre değişmekle beraber 900 gram ağırlığa kadar;
+sg 90 mini servo kullanılabilir elevator x1 rudder x1 aileron x2 toplamda 4 adet servo yeterlidir
+MOTOR SEÇİMİ 
+kv dediğimiz kavramla alakalıdır kısaca
+Motora 1 volt enerji verildiğinde dakikada kaç rpm dönüş sağlıyorsa üzerindeki veridir. 1000kv 1400kv 2200kv veya daha düşük ve yüksek değerler alabilir
+devamındaki 4 harfli rakamsa motorun kapağını açtığımızda ve endüvinin enini kumpas ile ölçtüğümüzde ilk iki rakamı boyunu ölçtüğümüzde ise son iki rakamı verir örnek olarak:
+a2210 modeline sahşpseniz 22 mm en ve 10mm uzunlukta bir endüviye sahipsiniz demektir. Bu değer motorunuzun gücünü etkiler ben 1000-1200gram arasında bir model yapmak istediğimiz
+için 1000kv a 2210 modelini tercih ediyoruz
+BATARYA SEÇİMİ 
+Lipo bataryada en önemli olan şey "C" değeridir bu verebileceği tepe akım değerinş ve ani artışları ifade eder. Yani bu değer ne kadar yüksekse o kadar ani şekilde tork ve ivmelenme yakalanabilir.
+Bir diğer değerse mah değeri burda ihtiyaca göre seçilmelidir.Fazka mah depolama için iyi olsa dahi büyük bir ağırlık oluşturur alttaki tabloyu üstte yazan motor ve bileşenlere göre hazırladık.
+  1- Eğer 10-12 dakika arasında havada kalmak ve ani ivmelenmeye ihtiyaç duyuluyorsa 1000mah 45c yeterlidir
+  2- Eğer 10-12 dakika arasında havada kalmak fakat ani ivmelenmeye ihtiyaç duyulmuyorsa 1000mah 25c yeterlidir.
+  3-Eğer 10-12 dakika arasında havada kalmak ve ani ivmelenmeye aşırı ihtiyaç duyuluyorsa 1000mah 75c yeterlidir.
+  4-Eğer 12-15 dakika arasında havada kalmak ve ani ivlmelenmeye ihtiyaç duyuluyorsa 1500mah 45c yeterlidir.
+  5-Eğer 12-15 dakika arasında havada kalmak ve ani ivlmelenmeye aşırı ihtiyaç duyuluyorsa 1500mah 75c yeterlidir. 
+  6-Eğer 12-15 dakika arasında havada kalmak ve ani ivlmelenmeye ihtiyaç duyulmuyorsa  1500mah 25c yeterlidir. 
+  7-Eğer 20  dakika ve üzeri havada kalmak ve ani ivlmelenmeye ihtiyaç duyuluyorsa 3000mah 45c yeterlidir. 
+  8-Eğer 20  dakika ve üzeri havada kalmak ve ani ivlmelenmeye aşırı ihtiyaç duyuluyorsa 3000mah 75c yeterlidir.
+  9-Eğer 20  dakika ve üzeri havada kalmak ve ani ivlmelenmeye ihtiyaç duyulmuyorsa 3000mah 25c yeterlidir.  
+   -bu örneklerde sürekli stabil şekilde aynı performansı gösteremez istediğiniz değeri stabil şekilde elde etmek için tolerans değerini %50 olarak belirleyin yarı stabil ise %25 olarakta alabilirsiniz-
+     ESC SEÇİMİ 
+     yukarıdaki motor için 30 amper herhangi bir esc yeterlidir tabii ki sürekli yüksek akım esc yi ısıtıp yakabileceğinden ötürü istediğiniz amaca göre esc kalitesini belirleyiniz.                                                                                                                                                                                                             
+          
