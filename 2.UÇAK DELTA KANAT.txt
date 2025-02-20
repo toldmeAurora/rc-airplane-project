@@ -1,0 +1,9 @@
+2.uçak
+Neden Delta kanatlı uçak yapmak istiyoruz ? 
+Öncelikle yaptığımız ilk uçak için ;
+Kontrolleri kolay.
+Yapısı basit.
+Ve kazalarda geri tamir etmesi kolay. 
+Ama ağır ve yavaş olması ve denge konusunda çok başarılı bir uçak olmaması bizi Yapmak istediğimiz diğer proje olan delta kanat bir uçak yapma fikrine iteledi. Burda delta kanat bir uçak seçmemizin amacı ;
+Yapımı ilk uçağımıza göre kolay.
+Elevator ve rudder yerine sadece Aileron kullanılabilir. Daha az servo yani daha az hareketli parça ve daha basit bir tasarım olması onu ilk uçağa göre daha pratik yapıyor. Hafif , basit , hızlı ve tek parça halinde olması delta kanatın avantajları arasında sayılır. Dezavantaj olarak kontrollerinin zorluğu ve dengesinin hızlı bozulabilmesi gösterilebilir.
